@@ -15,4 +15,4 @@ Five kinds of obstacles will be thrown on the runway with a random location at a
 Originally you will get five blood (which could be seen on your left top screen), once blood is decreased to zero, you will reborn at the starting point to restart the game.
 
 ### About Download
-All parts of the game are packaged in **parkour-game.unitypackage**, just download it and run on your PC!
+All parts of the game are packaged in (**parkour-game.unitypackage**)[https://jbox.sjtu.edu.cn/l/T1XGbL], just download it and run on your PC!
